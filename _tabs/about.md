@@ -10,4 +10,4 @@ order: 4
 - 👋 Hi, I’m @KaitoAT18
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning Penetration Testing.
-- 📫 How to reach me via email: lehoangminhat18kma@gmail.com.
+- 📫 How to reach me: <mailto:lehoangminhat18kma@gmail.com>.
